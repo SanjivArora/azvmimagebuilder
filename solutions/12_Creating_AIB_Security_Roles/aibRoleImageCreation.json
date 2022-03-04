@@ -16,7 +16,7 @@
   
     ],
     "AssignableScopes": [
-      "/subscriptions/251b01ef-d79c-459a-96ff-2e2ff79ac07f/resourceGroups/ImageBuilder-RG"
+      "/subscriptions/<subscriptionID>/resourceGroups/<rgName>"
     ]
   }
 
